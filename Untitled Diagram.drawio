@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T02:34:43.904Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.5.4" etag="6NKySN_c4HrszXnHkSe_" type="github"><diagram id="MsHVahbg1rmy4b3ToPfv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-09T03:05:33.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="IISAaYX_8006fWtGQ_cL" version="16.5.4" type="github">
+  <diagram id="MsHVahbg1rmy4b3ToPfv" name="Page-1">
+    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rLnWEVtdHEhuKXXNUZKf-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="315" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-12" value="YHDRCustomized_UserPrivilege" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rLnWEVtdHEhuKXXNUZKf-11">
+          <mxGeometry x="-0.32" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-1" value="YHDR DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="250" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLnWEVtdHEhuKXXNUZKf-2" target="rLnWEVtdHEhuKXXNUZKf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-2" value="DSL Query" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rLnWEVtdHEhuKXXNUZKf-4" target="rLnWEVtdHEhuKXXNUZKf-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="520" />
+              <mxPoint x="-275" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-15" value="Get Report filter with YHDRCustomized_UserPrivilege" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rLnWEVtdHEhuKXXNUZKf-14">
+          <mxGeometry x="-0.2821" y="1" relative="1" as="geometry">
+            <mxPoint x="-158" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-4" value="New Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="rLnWEVtdHEhuKXXNUZKf-5" target="rLnWEVtdHEhuKXXNUZKf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-8" value="Visit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rLnWEVtdHEhuKXXNUZKf-7">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rLnWEVtdHEhuKXXNUZKf-6" target="rLnWEVtdHEhuKXXNUZKf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-16" value="Filter records according Role" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rLnWEVtdHEhuKXXNUZKf-9">
+          <mxGeometry x="-0.3167" relative="1" as="geometry">
+            <mxPoint x="469" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rLnWEVtdHEhuKXXNUZKf-6" value="Report" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
